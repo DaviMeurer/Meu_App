@@ -1,4 +1,4 @@
-# Meu_App
+# Meu App
 ## 1° Passo
 Foi começado com uma área de trabalho no Trello criado, e assim, as listas foram pensadas e seguidas.
 - A fazer
