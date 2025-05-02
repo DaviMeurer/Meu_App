@@ -5,7 +5,7 @@ Foi começado com uma área de trabalho no Trello criado, e assim, as listas for
 - Fazendo
 - Feito
   
-E as Listas sendo:
+E os Cartões sendo:
 
 1. Sprint BackLog (Especificação de Requisitos)
 2. Desenvolvimento Mobile (Campo de Texto, Botão Salvar, Botão de Revisar Arquivos Salvos)
